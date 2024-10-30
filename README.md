@@ -1,4 +1,4 @@
-APP que implementa testes unitários e testes instrumentados
+App com que implementação testes unitários e testes instrumentados
 
 
 
